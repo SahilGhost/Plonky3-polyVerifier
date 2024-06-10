@@ -1,1 +1,1 @@
-# Plonky3-polyVerifier
+# plonky3 impl for verifying a polynomial evaluation
